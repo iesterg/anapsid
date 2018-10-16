@@ -1,4 +1,4 @@
-ANAPSID
+ANAPSID4STARDOG
 =======
 
 An adaptive query processing engine for SPARQL endpoints.
